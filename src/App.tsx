@@ -65,7 +65,6 @@ const App: React.FC = () => {
     const weight = +enteredWeight / weightConversionFactor;
     const height = +enteredHeight / heightConversionFactor;
 
-    // setCalculatedBmi(bmi);
     setCalculatedBmi(weight / (height * height));
   };
 
