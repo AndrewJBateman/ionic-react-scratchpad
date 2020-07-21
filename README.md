@@ -1,38 +1,41 @@
-# Ionic React Scratchpad
+# :zap: Ionic React Scratchpad
 
 * App to calculate the users Body Mass Index (BMI) using inputs of height and weight. Created using the [Ionic 5 framework](https://ionicframework.com/docs) with [React](https://reactjs.org/)].
 * Initially Academind: Youtube video: [Ionic + React - Tutorial for Beginners 2020](https://www.youtube.com/watch?v=_03VKmdrxV8) code but with customisations to code and styling.
 
-## Table of contents
+## :page_facing_up: Table of contents
 
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [:zap: Ionic React Scratchpad](#zap-ionic-react-scratchpad)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:envelope: Contact](#envelope-contact)
 
-## General info
+## :books: General info
 
 * App created using Ionic CLI v5
 
-## Screenshots
+## :camera: Screenshots
 
 ![screen print](./img/bmi.png)
 
-## Technologies
+## :signal_strength: Technologies
 
-* [Ionic v5.0.7](https://ionicframework.com/) framework
-* [React v16.12.0](https://reactjs.org/) library
+* [Ionic v5](https://ionicframework.com/) framework
+* [React v16](https://reactjs.org/) library
 
-## Setup
+## :floppy_disk: Setup
 
 * Load dependencies using `npm i`,
 * To start the server on _localhost://8100_ type: 'ionic serve'
 
-## Code Examples
+## :computer: Code Examples
 
 * function to calculate BMI from user inputs for height & weight
 
@@ -61,19 +64,19 @@ const calculateBMI = () => {
 };
 ```
 
-## Features
+## :cool: Features
 
-* N/A
+* ion cards are responsive so app looks good on PC or mobile screen
 
-## Status & To-do list
+## :clipboard: Status & To-do list
 
 * Status: working. Very simple app. Minor error: result card does not disappear when reset button is pressed
 * To-do: Fix reset and add functionality
 
-## Inspiration
+## :clap: Inspiration
 
 * Academind: Youtube video: [Ionic + React - Tutorial for Beginners 2020](https://www.youtube.com/watch?v=_03VKmdrxV8)
 
-## Contact
+## :envelope: Contact
 
-Repo created by [ABateman](https://www.andrewbateman.org) - feel free to contact me!
+* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)

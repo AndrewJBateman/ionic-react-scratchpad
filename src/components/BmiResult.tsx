@@ -13,8 +13,8 @@ const BmiResult: React.FC<{ result: number }> = (props) => {
             <h1>{props.result.toFixed(2)}</h1>
             <IonItemDivider color="primary">
             </IonItemDivider>
-            <p>>=25.0 is overweight</p>
-            <p>18.5 - 24.9 is good</p>
+            <p> greater than 25.0 is overweight</p>
+            <p>between 18.5 and 24.9 is good</p>
           </IonCardContent>
         </IonCard>
       </IonCol>
