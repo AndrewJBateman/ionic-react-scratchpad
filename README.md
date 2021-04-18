@@ -15,6 +15,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -28,7 +29,7 @@
 ## :signal_strength: Technologies
 
 * [Ionic v5](https://ionicframework.com/) framework
-* [React v16](https://reactjs.org/) library
+* [React v17](https://reactjs.org/) library
 
 ## :floppy_disk: Setup
 
@@ -70,13 +71,17 @@ const calculateBMI = () => {
 
 ## :clipboard: Status & To-do list
 
-* Status: working. Very simple app. Minor error: result card does not disappear when reset button is pressed
+* Status: working. Updated april 2021. Minor error: result card does not disappear when reset button is pressed
 * To-do: Fix reset and add functionality
 
 ## :clap: Inspiration
 
 * Academind: Youtube video: [Ionic + React - Tutorial for Beginners 2020](https://www.youtube.com/watch?v=_03VKmdrxV8)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
